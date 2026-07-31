@@ -1,8 +1,8 @@
 # Armor Penetration Calculator
 
-<img width="284" height="270" alt="m4-100%" src="https://github.com/user-attachments/assets/bb634f0c-cd3c-4324-bae8-8f33afb2cd0c" />
-<img width="300" height="328" alt="m4-34%" src="https://github.com/user-attachments/assets/0ac9168a-ffb3-41e4-a923-fd96e7ee82dd" />
-<img width="238" height="233" alt="m4-1%" src="https://github.com/user-attachments/assets/a48185c4-c4fe-46c5-9a62-b7ff40a48450" />
+<img width="284" height="270" alt="m4-100%" src="https://github.com/AVPromo/Armor-Penetration-Calculator/blob/main/images/m4-100%25.png?raw=true" />
+<img width="300" height="328" alt="m4-34%" src="https://github.com/AVPromo/Armor-Penetration-Calculator/blob/main/images/m4-34%25.png?raw=true" />
+<img width="238" height="233" alt="m4-1%" src="https://github.com/AVPromo/Armor-Penetration-Calculator/blob/main/images/m4-1%25.png?raw=true" />
 
 *Photos were taken with a 125mm pen AP shell*
 
